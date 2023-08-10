@@ -1,0 +1,2 @@
+# Burada `flexduebackend` projesinin modelleri yer almayacak, çünkü API Gateway genellikle veritabanı işlemleri yerine gelen istekleri yönlendiren bir ara yüz olarak kullanılır.
+# Dolayısıyla, `models.py` dosyası boş kalacaktır.
